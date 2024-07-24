@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "240182553988",
+    "firebase_url": "https://pdf-image-15918-default-rtdb.firebaseio.com",
+    "project_id": "pdf-image-15918",
+    "storage_bucket": "pdf-image-15918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240182553988:android:e28b9feded2c4a606781d1",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Au1V03yUdMMuIWdOpEIJ7haqODX2jcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240182553988:android:f42f03c6a1494a926781d1",
+        "android_client_info": {
+          "package_name": "com.example.image_pdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Au1V03yUdMMuIWdOpEIJ7haqODX2jcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
